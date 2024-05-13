@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 3rem;
+}
+p{
+    text-align: center;
+    font-size:large;
+    word-spacing: 6px;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.motivate{
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}
